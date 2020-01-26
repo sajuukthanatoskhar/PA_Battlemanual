@@ -1,0 +1,91 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}
+\contentsline {section}{\numberline {2}Acknowledgements}{5}{section.2}
+\contentsline {section}{\numberline {3}This strategy guide and who it is for}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Assumptions}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}For the new players}{6}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}When you die}{6}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}A word on world ending devices}{6}{subsection.3.3}
+\contentsline {section}{\numberline {4}Bounty}{7}{section.4}
+\contentsline {section}{\numberline {5}Attention Warfare}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Choosing what planets should do what}{9}{subsection.5.1}
+\contentsline {section}{\numberline {6}Pre-Game Decisions define your entire game}{10}{section.6}
+\contentsline {subsection}{\numberline {6.1}Red vs Blue Team Games}{10}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Starting on one planet}{10}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Lane games}{10}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}NvNvN... Team games}{10}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Individual Planet choices}{11}{subsection.6.3}
+\contentsline {section}{\numberline {7}Planets with high amounts of doodads/CSG}{12}{section.7}
+\contentsline {section}{\numberline {8}Gas Planets}{13}{section.8}
+\contentsline {section}{\numberline {9}Orbital Mechanics}{14}{section.9}
+\contentsline {subsection}{\numberline {9.1}Astreus}{14}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}The pullout maneuver}{14}{subsubsection.9.1.1}
+\contentsline {paragraph}{What is it, Sajuuk}{14}{section*.2}
+\contentsline {subparagraph}{Special submove}{15}{section*.3}
+\contentsline {paragraph}{Summary}{15}{section*.4}
+\contentsline {paragraph}{What should've been done}{16}{section*.5}
+\contentsline {subparagraph}{Exception: Water planets}{16}{section*.6}
+\contentsline {subsection}{\numberline {9.2}'Teleporting' Space units}{16}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Tech 1 Radar Satellites}{16}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Defense against the Mongolian Ion Cannon horde}{16}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Stealthy Unit Cannons}{17}{subsection.9.5}
+\contentsline {section}{\numberline {10}Teleports}{18}{section.10}
+\contentsline {section}{\numberline {11}Nuclear Missiles}{19}{section.11}
+\contentsline {section}{\numberline {12}Space Invasion Strategies}{20}{section.12}
+\contentsline {subsection}{\numberline {12.1}Scouting}{20}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Tier 1 : Single Space Fabricator}{20}{subsection.12.2}
+\contentsline {subsection}{\numberline {12.3}Tier 2 : Many Space Fabricators}{20}{subsection.12.3}
+\contentsline {subsection}{\numberline {12.4}Tier 3 : Unit Cannon with combat fabricators}{20}{subsection.12.4}
+\contentsline {subsection}{\numberline {12.5}Tier 4 : Helios}{20}{subsection.12.5}
+\contentsline {subsection}{\numberline {12.6}Tier 5 : Nuke + Helios or Unit Cannon}{20}{subsection.12.6}
+\contentsline {subsection}{\numberline {12.7}Tier 6: Apocalypse - Multiple nukes, Pheonix Invasion, Multiple Helii Titans and Unit cannons}{20}{subsection.12.7}
+\contentsline {section}{\numberline {13}General Strategies}{22}{section.13}
+\contentsline {subsection}{\numberline {13.1}Word of warning}{22}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}2Mex1TankFac1AssFab}{22}{subsection.13.2}
+\contentsline {subsubsection}{\numberline {13.2.1}Why the extra build power from fabs?}{22}{subsubsection.13.2.1}
+\contentsline {subsubsection}{\numberline {13.2.2}Evolving into mid game}{23}{subsubsection.13.2.2}
+\contentsline {subsection}{\numberline {13.3}Dox Swarm Build}{23}{subsection.13.3}
+\contentsline {subsection}{\numberline {13.4}Air starts}{23}{subsection.13.4}
+\contentsline {subsection}{\numberline {13.5}Real costs of production}{24}{subsection.13.5}
+\contentsline {subsection}{\numberline {13.6}Pinning}{25}{subsection.13.6}
+\contentsline {subsection}{\numberline {13.7}Sneaky Boombot snipe}{26}{subsection.13.7}
+\contentsline {subsection}{\numberline {13.8}Direct Frontal Assault}{26}{subsection.13.8}
+\contentsline {subsubsection}{\numberline {13.8.1}Walls}{26}{subsubsection.13.8.1}
+\contentsline {subsubsection}{\numberline {13.8.2}Who wins, takes all the wreckage}{26}{subsubsection.13.8.2}
+\contentsline {subsection}{\numberline {13.9}Use of terrain}{26}{subsection.13.9}
+\contentsline {subsection}{\numberline {13.10}T1 Tanks : The inferno}{27}{subsection.13.10}
+\contentsline {subsection}{\numberline {13.11}T2 Tanks: The Leveller}{27}{subsection.13.11}
+\contentsline {subsubsection}{\numberline {13.11.1}Vision Radius}{27}{subsubsection.13.11.1}
+\contentsline {subsubsection}{\numberline {13.11.2}HOLD THE LINE THERE BUDDY}{27}{subsubsection.13.11.2}
+\contentsline {subsection}{\numberline {13.12}Other T2 Tanks}{27}{subsection.13.12}
+\contentsline {subsubsection}{\numberline {13.12.1}Shellers}{29}{subsubsection.13.12.1}
+\contentsline {subsubsection}{\numberline {13.12.2}Vanguards}{29}{subsubsection.13.12.2}
+\contentsline {subsection}{\numberline {13.13}T2 Bots}{29}{subsection.13.13}
+\contentsline {subsubsection}{\numberline {13.13.1}Gile Sniper Bots}{29}{subsubsection.13.13.1}
+\contentsline {subsubsection}{\numberline {13.13.2}Bluehawks}{29}{subsubsection.13.13.2}
+\contentsline {paragraph}{Bluehawks and Giles}{29}{section*.7}
+\contentsline {subsubsection}{\numberline {13.13.3}Colonels}{30}{subsubsection.13.13.3}
+\contentsline {subsection}{\numberline {13.14}T2 Air}{30}{subsection.13.14}
+\contentsline {subsubsection}{\numberline {13.14.1}Phoenix}{30}{subsubsection.13.14.1}
+\contentsline {subsubsection}{\numberline {13.14.2}Wyrms}{31}{subsubsection.13.14.2}
+\contentsline {subsubsection}{\numberline {13.14.3}Angels}{31}{subsubsection.13.14.3}
+\contentsline {subsubsection}{\numberline {13.14.4}Hornets}{31}{subsubsection.13.14.4}
+\contentsline {subsubsection}{\numberline {13.14.5}Kestrel}{31}{subsubsection.13.14.5}
+\contentsline {subsubsection}{\numberline {13.14.6}Horsefly}{31}{subsubsection.13.14.6}
+\contentsline {subsection}{\numberline {13.15}Air transports}{31}{subsection.13.15}
+\contentsline {subsubsection}{\numberline {13.15.1}Sneaky Teleport}{31}{subsubsection.13.15.1}
+\contentsline {section}{\numberline {14}Commander Strategies}{33}{section.14}
+\contentsline {subsection}{\numberline {14.1}Offensive}{33}{subsection.14.1}
+\contentsline {subsubsection}{\numberline {14.1.1}Commander Pushing}{33}{subsubsection.14.1.1}
+\contentsline {subsection}{\numberline {14.2}Defensive}{33}{subsection.14.2}
+\contentsline {subsubsection}{\numberline {14.2.1}Anti-space}{34}{subsubsection.14.2.1}
+\contentsline {subsection}{\numberline {14.3}Next world expansion}{34}{subsection.14.3}
+\contentsline {section}{\numberline {15}Psychological Warfare}{34}{section.15}
+\contentsline {subsection}{\numberline {15.1}Invasion (On Ground)}{34}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Massive Army}{34}{subsection.15.2}
+\contentsline {subsubsection}{\numberline {15.2.1}Global invasion}{34}{subsubsection.15.2.1}
+\contentsline {subsection}{\numberline {15.3}Losing Gas}{35}{subsection.15.3}
+\contentsline {subsection}{\numberline {15.4}Getting Pinned}{36}{subsection.15.4}
+\contentsline {subsection}{\numberline {15.5}Mass Fabricator invasion}{36}{subsection.15.5}
+\contentsline {subsubsection}{\numberline {15.5.1}Ragnarok}{36}{subsubsection.15.5.1}
+\contentsline {section}{\numberline {16}Ping pathing}{37}{section.16}
+\contentsline {section}{\numberline {17}Appendix: Glossary}{37}{section.17}
